@@ -2,7 +2,7 @@
 using ConsoleText;
 using static ConsoleText.ColorConsole;
 
-Write("Color", ConsoleColor.Cyan, decoration: ConsoleDecoration.Italics);
+Write("Console", ConsoleColor.Cyan, decoration: ConsoleDecoration.Italics);
 WriteLine("Text", ConsoleColor.Yellow, decoration: ConsoleDecoration.Underline);
 WriteLine();
 
