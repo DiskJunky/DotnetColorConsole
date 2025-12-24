@@ -1,4 +1,4 @@
-﻿namespace DotnetColorConsole;
+﻿namespace ConsoleText;
 
 /// <summary>
 /// These are the text formatting options available for rendering text on the console.

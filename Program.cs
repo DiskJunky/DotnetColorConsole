@@ -1,5 +1,5 @@
-﻿using DotnetColorConsole;
-using static DotnetColorConsole.ColorConsole;
+﻿using ConsoleText;
+using static ConsoleText.ColorConsole;
 
 WriteLine("Testing bold...", ConsoleColor.Yellow, ConsoleColor.DarkBlue, decoration: ConsoleDecoration.Bold);
 WriteLine("Testing italics and fore/back colors...", ConsoleColor.DarkGreen, ConsoleColor.Gray, ConsoleDecoration.Italics);
